@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Alison Ryan and I'm a rising sophomore computer science and math major at Northeastern University!
+My name's Alison Ryan and I'm a computer science and math major at Northeastern University!
 
 <!--
 **AlisRyan/AlisRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
